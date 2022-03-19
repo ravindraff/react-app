@@ -8,7 +8,7 @@ const Register = () => {
       <h1 class="large text-primary">
         Sign Up
       </h1>
-      <p class="lead"><i class="fas fa-user"></i> Create Your Account</p>
+      <p class="lead"><i class="fas fa-user"></i> Create Your</p>
       <form action="dashboard.html" class="form">
         <div class="form-group">
           <input type="text" placeholder="Name" required />
